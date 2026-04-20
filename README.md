@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**shindevaishnavi697-design/shindevaishnavi697-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I'm a beginner learning SQL and data analytics.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- SQL
+- Databases
+- 
+## 📂 Projects
+- SQL Project (more coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Become a data analyst
+- Build real-world projects
+

@@ -6,7 +6,7 @@ I'm a beginner learning SQL and data analytics.
 ## 🌱 Currently Learning
 - SQL
 - Databases
-- 
+  
 ## 📂 Projects
 - SQL Project (more coming soon)
 
